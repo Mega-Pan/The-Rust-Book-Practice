@@ -8,6 +8,4 @@ fn main() {
             break counter * 2;
         }
     };
-
-    println!("The result is {}", result);
 }
