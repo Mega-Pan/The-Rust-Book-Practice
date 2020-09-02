@@ -6,3 +6,4 @@ The book link is [[here]](https://doc.rust-lang.org/book/)
 ## Other Rust Leaning Link
 - [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4&list=WL&index=2&t=3s)
 - Building a [Tik-Tak-Toe](https://github.com/YPPAN/Tic-Tak-Toe-Rust) game
+- Open Data Structures [[Link]](https://opendatastructures.org/)
